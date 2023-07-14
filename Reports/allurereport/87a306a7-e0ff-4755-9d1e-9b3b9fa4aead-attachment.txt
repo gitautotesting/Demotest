@@ -1,0 +1,20 @@
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:23 ************** test_orangehrm_login_DDT_003 ***************** 
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:25 Orange HRM URL opened 
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:36 Username --> Admin  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:38 password --> admin123  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:42 clicking on Login Button
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:49 clicking on profile Button
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:52 Clicking on Logout button
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:53 Login passed with Valid credentials
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:36 Username --> admin  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:38 password --> Admin123  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:42 clicking on Login Button
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:65 Login Failed with invalid credentials
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:36 Username --> ad  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:38 password --> ad123  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:42 clicking on Login Button
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:65 Login Failed with invalid credentials
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:36 Username --> adm  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:38 password --> ad111  entered
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:42 clicking on Login Button
+[32mINFO    [0m Test_orangeHRM_DDT:test_orangeHRM_login_DDT.py:65 Login Failed with invalid credentials

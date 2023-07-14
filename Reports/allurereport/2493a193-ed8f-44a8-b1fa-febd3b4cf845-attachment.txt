@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_homepage:test_homepage.py:16 ******** test_inputfield_001 *********
+[32mINFO    [0m Test_homepage:test_homepage.py:19 Opening Url : https://seleniumbase.io/demo_page
+[32mINFO    [0m Test_homepage:test_homepage.py:22 Enter the text Automationin text box 
+[32mINFO    [0m Test_homepage:test_homepage.py:26 input text is validated and correct

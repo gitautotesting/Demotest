@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_login:test_orangehrm_login.py:18 Opening Orange HRM URL
+[32mINFO    [0m Test_login:test_orangehrm_login.py:20 Maximize window
+[32mINFO    [0m Test_login:test_orangehrm_login.py:24 Entering Username as :  Admin
+[32mINFO    [0m Test_login:test_orangehrm_login.py:26 Entering Password as :  admin123
+[32mINFO    [0m Test_login:test_orangehrm_login.py:29 click on login button
+[32mINFO    [0m Test_login:test_orangehrm_login.py:33 Login Sucessfull, Test Passed
